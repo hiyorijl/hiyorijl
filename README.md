@@ -7,5 +7,5 @@ i love terminals, scripting and python 💗🌐
 [![my fav repositories](https://github-readme-stats.vercel.app/api/pin/?username=hiyorijl&repo=verbal_garden_quartz&theme=transparent&show_icons=true)](https://github.com/hiyorijl/verbal_garden_quartz)
 [![my fav repositories](https://github-readme-stats.vercel.app/api/pin/?username=hiyorijl&repo=useful_python_scripts&theme=transparent&show_icons=true)](https://github.com/hiyorijl/useful_python_scripts)
 
-
+## other stats
 [![Hiyori's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiyorijl&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
