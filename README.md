@@ -1,4 +1,4 @@
-==i love terminals, scripting and python==
+i love terminals, scripting and python 💗🌐
 
 [![reo-patting.webp](https://i.postimg.cc/RFM2CQFY/reo-patting.webp)](https://postimg.cc/mc5m8973) [![Hiyori's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiyorijl&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
