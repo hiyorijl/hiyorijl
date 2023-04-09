@@ -1,11 +1,6 @@
 i love terminals, scripting and python 💗🌐
 <img
-  src="https://github.com/hiyorijl/hiyorijl>/blob/<branch-name>/images/stat.svg"
-  alt="Alternative Text"
-/>
-Example:
-<img
-  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
+  src="https://github.com/hiyorijl/hiyorijl/blob/main/images/stat.svg"
   alt="hiyori's WakaTime Activity"
 />
 
