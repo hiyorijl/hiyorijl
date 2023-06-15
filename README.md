@@ -1,7 +1,7 @@
 hiiii I'm Hiyori welcome to my pageee \(@^0^@)/
 
 ## 🦄 Wakatime coding activity  [![wakatime](https://wakatime.com/badge/user/49dba2c5-26e1-43a7-9d07-e0f8613d1227.svg)](https://wakatime.com/@49dba2c5-26e1-43a7-9d07-e0f8613d1227) 
-<img src="https://i.postimg.cc/HkLwJm8c/ezgif-2-81a7d85599.gif" height="100"/>  <img src="https://i.postimg.cc/RFM2CQFY/reo-patting.webp" alt="reo patting head" width="200" style="border-radius: 50%;"> <img src="https://wakatime.com/share/@hiyori/ef87015d-57e0-4afb-bb56-1a99a24ea312.svg" width="600" alt="Wakatime HEATMAP SVG"/> 
+<img src="https://i.postimg.cc/HkLwJm8c/ezgif-2-81a7d85599.gif" width="400"/>  <img src="https://i.postimg.cc/RFM2CQFY/reo-patting.webp" alt="reo patting head" width="200" style="border-radius: 50%;"> <img src="https://wakatime.com/share/@hiyori/ef87015d-57e0-4afb-bb56-1a99a24ea312.svg" width="600" alt="Wakatime HEATMAP SVG"/> 
 
 
 
