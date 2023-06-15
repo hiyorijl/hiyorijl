@@ -5,7 +5,7 @@
 [![Waka Readme](https://github.com/hiyorijl/hiyorijl/actions/workflows/Waka%20Readme.yml/badge.svg)](https://github.com/hiyorijl/hiyorijl/actions/workflows/Waka%20Readme.yml)
 
 
-
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
  [![Hiyori's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hiyori&theme=buefy&range=last_year&is_including_today=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
