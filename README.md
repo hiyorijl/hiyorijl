@@ -86,10 +86,11 @@ Jupyter Notebook         1 repo              ███░░░░░░░░�
 
 **Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/hiyorijl/hiyorijl/main/assets/bar_graph.png)
 
+![Lines of Code chart](https://raw.githubusercontent.com/hiyorijl/hiyorijl/main/assets/bar_graph.png)
 
  Last Updated on 15/06/2023 18:36:46 UTC
 <!--END_SECTION:waka-->
+https://api.githubtrends.io/user/svg/hiyorijl/langs?time_range=one_year&include_private=True&theme=classic
 
  [![Hiyori's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hiyori&theme=buefy&range=last_year&is_including_today=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
