@@ -3,7 +3,8 @@ hiiii I'm Hiyori welcome to my pageee \(@^0^@)/
 ## 🦄 Wakatime coding activity °。°。°。°。[![wakatime](https://wakatime.com/badge/user/49dba2c5-26e1-43a7-9d07-e0f8613d1227.svg)](https://wakatime.com/@49dba2c5-26e1-43a7-9d07-e0f8613d1227) 
 <img src="https://wakatime.com/share/@hiyori/ef87015d-57e0-4afb-bb56-1a99a24ea312.svg" width="600" alt="Wakatime HEATMAP SVG"/> ..... <img src="https://i.postimg.cc/RFM2CQFY/reo-patting.webp" alt="reo patting head" width="200" style="border-radius: 50%;">
 
-
+## languages °。°。°。°
+ [![Hiyori's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hiyori&theme=buefy&range=last_year&is_including_today=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Waka Readme](https://github.com/hiyorijl/hiyorijl/actions/workflows/Waka%20Readme.yml/badge.svg)](https://github.com/hiyorijl/hiyorijl/actions/workflows/Waka%20Readme.yml)
 
@@ -91,5 +92,3 @@ Jupyter Notebook         1 repo              ███░░░░░░░░�
 
  Last Updated on 15/06/2023 18:36:46 UTC
 <!--END_SECTION:waka-->
-
- [![Hiyori's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hiyori&theme=buefy&range=last_year&is_including_today=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
