@@ -2,6 +2,11 @@
 <img src="https://wakatime.com/share/@hiyori/ef87015d-57e0-4afb-bb56-1a99a24ea312.svg" width="600" alt="Wakatime HEATMAP SVG"/>  ...  <img src="https://i.postimg.cc/RFM2CQFY/reo-patting.webp" alt="reo patting head" width="200" style="border-radius: 50%;">
 
 
+<div style="border-radius: 50%; overflow: hidden; width: 200px;">
+  <img src="https://i.postimg.cc/RFM2CQFY/reo-patting.webp" alt="reo patting head" style="width: 100%;">
+</div>
+
+
 [![Waka Readme](https://github.com/hiyorijl/hiyorijl/actions/workflows/Waka%20Readme.yml/badge.svg)](https://github.com/hiyorijl/hiyorijl/actions/workflows/Waka%20Readme.yml)
 
 
