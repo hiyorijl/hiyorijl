@@ -5,4 +5,4 @@
 <img src= "https://wakatime.com/share/@hiyori/37b6f4cf-ede1-4d8b-add8-26708de67a74.png" width="250">
 
 ## Wakatime coding activity
-<figure><embed src="https://wakatime.com/share/@hiyori/ef87015d-57e0-4afb-bb56-1a99a24ea312.svg"></embed></figure>
+<embed src="https://wakatime.com/share/@hiyori/ef87015d-57e0-4afb-bb56-1a99a24ea312.svg"></embed>
