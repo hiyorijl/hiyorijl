@@ -9,40 +9,40 @@ hiiii I'm Hiyori welcome to my pageee \(@^0^@)/
 [![Waka Readme](https://github.com/hiyorijl/hiyorijl/actions/workflows/Waka%20Readme.yml/badge.svg)](https://github.com/hiyorijl/hiyorijl/actions/workflows/Waka%20Readme.yml)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-155%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-154%20hrs%2055%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-167-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-179-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 1,073 Contributions in the Year 2023
+> 🏆 1,077 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 18 Public Repositories 
+> 📜 16 Public Repositories 
  > 
-> 🔑 7 Private Repositories 
+> 🔑 5 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                180 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
-🌆 Daytime                218 commits         █████░░░░░░░░░░░░░░░░░░░░   20.80 % 
-🌃 Evening                354 commits         ████████░░░░░░░░░░░░░░░░░   33.78 % 
-🌙 Night                  296 commits         ███████░░░░░░░░░░░░░░░░░░   28.24 % 
+🌞 Morning                179 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+🌆 Daytime                227 commits         █████░░░░░░░░░░░░░░░░░░░░   21.50 % 
+🌃 Evening                354 commits         ████████░░░░░░░░░░░░░░░░░   33.52 % 
+🌙 Night                  296 commits         ███████░░░░░░░░░░░░░░░░░░   28.03 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   90 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
-Tuesday                  176 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
-Wednesday                139 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-Thursday                 211 commits         █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
-Friday                   169 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-Saturday                 172 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
-Sunday                   91 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+Monday                   90 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+Tuesday                  175 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
+Wednesday                139 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Thursday                 220 commits         █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
+Friday                   169 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+Saturday                 172 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
+Sunday                   91 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
 ```
 
 
@@ -86,8 +86,8 @@ Jupyter Notebook         1 repo              ███░░░░░░░░�
 
 **Timeline**
 
-
 ![Lines of Code chart](https://raw.githubusercontent.com/hiyorijl/hiyorijl/main/assets/bar_graph.png)
 
- Last Updated on 15/06/2023 18:36:46 UTC
+
+ Last Updated on 16/06/2023 12:47:07 UTC
 <!--END_SECTION:waka-->
