@@ -1,4 +1,4 @@
-hiiii I'm Hiyori welcome to my profile \(@^0^@)/, I'm studying C++ and embedded systems! I have a messy but growing *digital garden* on [here](https://hiyorijl.github.io/verbal_garden_quartz/)
+hiiii I'm Hiyori welcome to my profile \(@^0^@)/, I'm studying C++ and embedded systems! I have a messy but planning on growing *digital garden* on [here](https://hiyorijl.github.io/verbal_garden_quartz/)
 
 
 ## 🦄 Wakatime coding activity °。°。°。°。[![wakatime](https://wakatime.com/badge/user/49dba2c5-26e1-43a7-9d07-e0f8613d1227.svg)](https://wakatime.com/@49dba2c5-26e1-43a7-9d07-e0f8613d1227) 
