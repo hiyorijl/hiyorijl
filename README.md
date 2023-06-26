@@ -9,7 +9,7 @@ hiiii I'm Hiyori welcome to my profile \(@^0^@)/
 [![Waka Readme](https://github.com/hiyorijl/hiyorijl/actions/workflows/Waka%20Readme.yml/badge.svg)](https://github.com/hiyorijl/hiyorijl/actions/workflows/Waka%20Readme.yml)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-167%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-166%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-180-blue)
 
@@ -86,5 +86,5 @@ Jupyter Notebook         1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hiyorijl/hiyorijl/main/assets/bar_graph.png)
 
 
- Last Updated on 25/06/2023 18:39:39 UTC
+ Last Updated on 26/06/2023 18:41:02 UTC
 <!--END_SECTION:waka-->
