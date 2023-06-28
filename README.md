@@ -11,7 +11,7 @@ hiiii I'm Hiyori welcome to my profile \(@^0^@)/
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-167%20hrs%2043%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-180-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-181-blue)
 
 **🐱 My GitHub Data** 
 
@@ -87,5 +87,5 @@ Jupyter Notebook         1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hiyorijl/hiyorijl/main/assets/bar_graph.png)
 
 
- Last Updated on 27/06/2023 18:40:52 UTC
+ Last Updated on 28/06/2023 18:40:21 UTC
 <!--END_SECTION:waka-->
