@@ -9,9 +9,9 @@ hiiii I'm Hiyori welcome to my profile \(@^0^@)/
 [![Waka Readme](https://github.com/hiyorijl/hiyorijl/actions/workflows/Waka%20Readme.yml/badge.svg)](https://github.com/hiyorijl/hiyorijl/actions/workflows/Waka%20Readme.yml)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-167%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-168%20hrs%2019%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
@@ -52,22 +52,22 @@ Sunday                   93 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Lima
 
 💬 Programming Languages: 
-TeX                      2 hrs 45 mins       ███████████████░░░░░░░░░░   60.17 % 
-Markdown                 1 hr 49 mins        ██████████░░░░░░░░░░░░░░░   39.76 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+TeX                      2 hrs 45 mins       ██████████████░░░░░░░░░░░   54.78 % 
+Markdown                 2 hrs 16 mins       ███████████░░░░░░░░░░░░░░   45.15 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 45 mins       ███████████████░░░░░░░░░░   60.24 % 
-Obsidian                 1 hr 49 mins        ██████████░░░░░░░░░░░░░░░   39.76 % 
+VS Code                  2 hrs 45 mins       ██████████████░░░░░░░░░░░   54.85 % 
+Obsidian                 2 hrs 16 mins       ███████████░░░░░░░░░░░░░░   45.15 % 
 
 🐱‍💻 Projects: 
-LaTeX and math notation  1 hr 51 mins        ██████████░░░░░░░░░░░░░░░   40.47 % 
-.nene5                   1 hr 49 mins        ██████████░░░░░░░░░░░░░░░   39.76 % 
-nyannyanghrrhaghhbooks   54 mins             █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
+.nene5                   2 hrs 16 mins       ███████████░░░░░░░░░░░░░░   45.15 % 
+LaTeX and math notation  1 hr 51 mins        █████████░░░░░░░░░░░░░░░░   36.85 % 
+nyannyanghrrhaghhbooks   54 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
 trarbrr1                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Windows                  4 hrs 34 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in CSS** 
@@ -87,5 +87,5 @@ Jupyter Notebook         1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hiyorijl/hiyorijl/main/assets/bar_graph.png)
 
 
- Last Updated on 29/06/2023 18:40:47 UTC
+ Last Updated on 30/06/2023 18:39:48 UTC
 <!--END_SECTION:waka-->
