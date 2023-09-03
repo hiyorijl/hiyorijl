@@ -9,7 +9,7 @@ hiiii I'm Hiyori welcome to my profile \(@^0^@)/
 [![Waka Readme](https://github.com/hiyorijl/hiyorijl/actions/workflows/Waka%20Readme.yml/badge.svg)](https://github.com/hiyorijl/hiyorijl/actions/workflows/Waka%20Readme.yml)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-359%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-364%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -52,20 +52,16 @@ Sunday                   134 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Lima
 
 💬 Programming Languages: 
-Markdown                 11 hrs 33 mins      ██████████████████████░░░   87.86 % 
-C++                      1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+Markdown                 14 hrs 11 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Obsidian                 11 hrs 33 mins      ██████████████████████░░░   87.86 % 
-Visual Studio            1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+Obsidian                 14 hrs 11 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-.nene5                   11 hrs 33 mins      ██████████████████████░░░   87.86 % 
-ConsoleApplication2      1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
-pry_GESTION_DE_ARCHIVOS  18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+.nene5                   14 hrs 11 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  13 hrs 9 mins       █████████████████████████   100.00 % 
+Windows                  14 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -85,5 +81,5 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hiyorijl/hiyorijl/main/assets/bar_graph.png)
 
 
- Last Updated on 02/09/2023 18:37:03 UTC
+ Last Updated on 03/09/2023 18:37:09 UTC
 <!--END_SECTION:waka-->
