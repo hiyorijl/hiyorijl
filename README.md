@@ -9,7 +9,7 @@ hiiii I'm Hiyori welcome to my profile \(@^0^@)/
 [![Waka Readme](https://github.com/hiyorijl/hiyorijl/actions/workflows/Waka%20Readme.yml/badge.svg)](https://github.com/hiyorijl/hiyorijl/actions/workflows/Waka%20Readme.yml)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-366%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-368%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -52,16 +52,16 @@ Sunday                   138 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Lima
 
 💬 Programming Languages: 
-Markdown                 11 hrs 38 mins      █████████████████████████   100.00 % 
+Markdown                 9 hrs 4 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Obsidian                 11 hrs 38 mins      █████████████████████████   100.00 % 
+Obsidian                 9 hrs 4 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-.nene5                   11 hrs 38 mins      █████████████████████████   100.00 % 
+.nene5                   9 hrs 4 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  11 hrs 38 mins      █████████████████████████   100.00 % 
+Windows                  9 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -81,5 +81,5 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hiyorijl/hiyorijl/main/assets/bar_graph.png)
 
 
- Last Updated on 05/09/2023 18:37:19 UTC
+ Last Updated on 06/09/2023 18:37:38 UTC
 <!--END_SECTION:waka-->
