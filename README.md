@@ -9,7 +9,7 @@ hiiii I'm Hiyori welcome to my profile \(@^0^@)/
 [![Waka Readme](https://github.com/hiyorijl/hiyorijl/actions/workflows/Waka%20Readme.yml/badge.svg)](https://github.com/hiyorijl/hiyorijl/actions/workflows/Waka%20Readme.yml)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-383%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-384%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -52,19 +52,24 @@ Sunday                   272 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Lima
 
 💬 Programming Languages: 
-Markdown                 33 mins             █████████████████████████   99.88 % 
-C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Markdown                 34 mins             █████████████░░░░░░░░░░░░   53.08 % 
+C++                      30 mins             ████████████░░░░░░░░░░░░░   46.86 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-Obsidian                 33 mins             █████████████████████████   99.88 % 
-Visual Studio            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Obsidian                 33 mins             █████████████░░░░░░░░░░░░   51.20 % 
+Visual Studio            24 mins             █████████░░░░░░░░░░░░░░░░   37.42 % 
+VS Code                  7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
 
 🐱‍💻 Projects: 
-.nene5                   33 mins             █████████████████████████   99.88 % 
-librería implementación  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+.nene5                   33 mins             █████████████░░░░░░░░░░░░   51.20 % 
+algoritmo fisher-taes Shu15 mins             ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
+(UPC)-Algoritmos-y-estruc6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
+algoritmo de intercambio_5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+algoritmo de ordenamiento1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
 
 💻 Operating System: 
-Windows                  33 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 4 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -84,5 +89,5 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hiyorijl/hiyorijl/main/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2023 18:38:14 UTC
+ Last Updated on 21/09/2023 18:37:00 UTC
 <!--END_SECTION:waka-->
