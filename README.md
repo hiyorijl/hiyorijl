@@ -9,7 +9,7 @@ hiiii I'm Hiyori welcome to my profile \(@^0^@)/
 [![Waka Readme](https://github.com/hiyorijl/hiyorijl/actions/workflows/Waka%20Readme.yml/badge.svg)](https://github.com/hiyorijl/hiyorijl/actions/workflows/Waka%20Readme.yml)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-407%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-408%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -52,16 +52,22 @@ Sunday                   272 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Lima
 
 💬 Programming Languages: 
-C++                      2 hrs 24 mins       █████████████████████████   100.00 % 
+C++                      2 hrs 24 mins       ██████████████████░░░░░░░   71.74 % 
+Markdown                 55 mins             ███████░░░░░░░░░░░░░░░░░░   27.26 % 
+Jupyter Notebook         2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 
 🔥 Editors: 
-Visual Studio            2 hrs 24 mins       █████████████████████████   100.00 % 
+Visual Studio            2 hrs 24 mins       ██████████████████░░░░░░░   71.74 % 
+Obsidian                 55 mins             ███████░░░░░░░░░░░░░░░░░░   27.26 % 
+Chrome                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 
 🐱‍💻 Projects: 
-LiteraNet                2 hrs 24 mins       █████████████████████████   100.00 % 
+LiteraNet                2 hrs 24 mins       ██████████████████░░░░░░░   71.74 % 
+.nene5                   55 mins             ███████░░░░░░░░░░░░░░░░░░   27.26 % 
+SICP                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 
 💻 Operating System: 
-Windows                  2 hrs 24 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -81,5 +87,5 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hiyorijl/hiyorijl/main/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2023 18:38:33 UTC
+ Last Updated on 04/10/2023 18:38:48 UTC
 <!--END_SECTION:waka-->
