@@ -9,7 +9,7 @@ hiiii I'm Hiyori welcome to my profile \(@^0^@)/
 [![Waka Readme](https://github.com/hiyorijl/hiyorijl/actions/workflows/Waka%20Readme.yml/badge.svg)](https://github.com/hiyorijl/hiyorijl/actions/workflows/Waka%20Readme.yml)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-542%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-542%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -52,16 +52,19 @@ Sunday                   272 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Lima
 
 💬 Programming Languages: 
-Markdown                 2 hrs 31 mins       █████████████████████████   100.00 % 
+Markdown                 2 hrs 31 mins       █████████████████████░░░░   85.75 % 
+Python                   25 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
 
 🔥 Editors: 
-Obsidian                 2 hrs 31 mins       █████████████████████████   100.00 % 
+Obsidian                 2 hrs 31 mins       █████████████████████░░░░   85.75 % 
+VS Code                  25 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
 
 🐱‍💻 Projects: 
-nene5                    2 hrs 31 mins       █████████████████████████   100.00 % 
+nene5                    2 hrs 31 mins       █████████████████████░░░░   85.75 % 
+powershell-scripts       25 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
 
 💻 Operating System: 
-Windows                  2 hrs 31 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -81,5 +84,5 @@ Jupyter Notebook         1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hiyorijl/hiyorijl/main/assets/bar_graph.png)
 
 
- Last Updated on 12/01/2024 18:38:30 UTC
+ Last Updated on 13/01/2024 18:36:57 UTC
 <!--END_SECTION:waka-->
