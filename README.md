@@ -9,7 +9,7 @@ hiiii I'm Hiyori welcome to my profile \(@^0^@)/
 [![Waka Readme](https://github.com/hiyorijl/hiyorijl/actions/workflows/Waka%20Readme.yml/badge.svg)](https://github.com/hiyorijl/hiyorijl/actions/workflows/Waka%20Readme.yml)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-542%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-542%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -52,20 +52,20 @@ Sunday                   272 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Lima
 
 💬 Programming Languages: 
-Markdown                 2 hrs 31 mins       █████████████████████░░░░   83.85 % 
-Python                   25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-PowerShell               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+Markdown                 2 hrs 34 mins       █████████████████████░░░░   84.12 % 
+Python                   25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+PowerShell               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 
 🔥 Editors: 
-Obsidian                 2 hrs 31 mins       █████████████████████░░░░   83.85 % 
-VS Code                  29 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+Obsidian                 2 hrs 34 mins       █████████████████████░░░░   84.12 % 
+VS Code                  29 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
 
 🐱‍💻 Projects: 
-nene5                    2 hrs 31 mins       █████████████████████░░░░   83.85 % 
-powershell-scripts       29 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+nene5                    2 hrs 34 mins       █████████████████████░░░░   84.12 % 
+powershell-scripts       29 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
 
 💻 Operating System: 
-Windows                  3 hrs               █████████████████████████   100.00 % 
+Windows                  3 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -85,5 +85,5 @@ Jupyter Notebook         1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hiyorijl/hiyorijl/main/assets/bar_graph.png)
 
 
- Last Updated on 14/01/2024 18:37:34 UTC
+ Last Updated on 15/01/2024 18:37:52 UTC
 <!--END_SECTION:waka-->
