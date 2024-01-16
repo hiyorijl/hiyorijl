@@ -9,7 +9,7 @@ hiiii I'm Hiyori welcome to my profile \(@^0^@)/
 [![Waka Readme](https://github.com/hiyorijl/hiyorijl/actions/workflows/Waka%20Readme.yml/badge.svg)](https://github.com/hiyorijl/hiyorijl/actions/workflows/Waka%20Readme.yml)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-542%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-543%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -21,7 +21,7 @@ hiiii I'm Hiyori welcome to my profile \(@^0^@)/
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 19 Public Repositories 
+> 📜 18 Public Repositories 
  > 
 > 🔑 5 Private Repositories 
  > 
@@ -52,20 +52,20 @@ Sunday                   272 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Lima
 
 💬 Programming Languages: 
-Markdown                 2 hrs 34 mins       █████████████████████░░░░   84.12 % 
-Python                   25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
-PowerShell               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Markdown                 2 hrs 58 mins       ████████████████████░░░░░   80.60 % 
+Python                   25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+PowerShell               17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
 
 🔥 Editors: 
-Obsidian                 2 hrs 34 mins       █████████████████████░░░░   84.12 % 
-VS Code                  29 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
+Obsidian                 2 hrs 58 mins       ████████████████████░░░░░   80.60 % 
+VS Code                  42 mins             █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
 
 🐱‍💻 Projects: 
-nene5                    2 hrs 34 mins       █████████████████████░░░░   84.12 % 
-powershell-scripts       29 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
+nene5                    2 hrs 58 mins       ████████████████████░░░░░   80.60 % 
+powershell-scripts       42 mins             █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
 
 💻 Operating System: 
-Windows                  3 hrs 3 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -85,5 +85,5 @@ Jupyter Notebook         1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hiyorijl/hiyorijl/main/assets/bar_graph.png)
 
 
- Last Updated on 15/01/2024 18:37:52 UTC
+ Last Updated on 16/01/2024 18:38:16 UTC
 <!--END_SECTION:waka-->
