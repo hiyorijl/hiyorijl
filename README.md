@@ -9,8 +9,6 @@ hiiii I'm Hiyori welcome to my profile \(@^0^@)/
 [![Waka Readme](https://github.com/hiyorijl/hiyorijl/actions/workflows/Waka%20Readme.yml/badge.svg)](https://github.com/hiyorijl/hiyorijl/actions/workflows/Waka%20Readme.yml)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-782%20hrs%2059%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -23,6 +21,45 @@ hiiii I'm Hiyori welcome to my profile \(@^0^@)/
  > 
 > 🔑 5 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                428 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
+🌆 Daytime                552 commits         █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
+🌃 Evening                841 commits         ████████░░░░░░░░░░░░░░░░░   33.48 % 
+🌙 Night                  691 commits         ███████░░░░░░░░░░░░░░░░░░   27.51 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   260 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+Tuesday                  426 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+Wednesday                349 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+Thursday                 416 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+Friday                   389 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+Saturday                 400 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
+Sunday                   272 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Lima
+
+💬 Programming Languages: 
+Bash                     7 mins              █████████████████████████   100.00 % 
+
+🔥 Editors: 
+Neovim                   7 mins              █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+.zshrc                   7 mins              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+WSL                      7 mins              █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in HTML** 
 
 ```text
@@ -40,5 +77,5 @@ Jupyter Notebook         1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hiyorijl/hiyorijl/main/assets/bar_graph.png)
 
 
- Last Updated on 14/04/2024 22:24:44 UTC
+ Last Updated on 15/04/2024 18:38:02 UTC
 <!--END_SECTION:waka-->
