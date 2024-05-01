@@ -17,7 +17,7 @@ hiiii I'm Hiyori welcome to my profile \(@^0^@)/
 
 > 📦 1.6 MB Used in GitHub's Storage 
  > 
-> 🏆 6 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -81,5 +81,5 @@ Jupyter Notebook         1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hiyorijl/hiyorijl/main/assets/bar_graph.png)
 
 
- Last Updated on 30/04/2024 18:38:45 UTC
+ Last Updated on 01/05/2024 18:38:42 UTC
 <!--END_SECTION:waka-->
